@@ -45,9 +45,13 @@ Este projeto implementa um sistema distribuído cliente-servidor em Java, onde c
 │       └── TesteSaidaPadrao.java
 ├── geradores.dat                # Arquivo gerado no teste de stream
 ├── Trabalho_1_Comunicação entre processos.pdf
----
 
----
+```
+
+
+
+
+
 
 ## 🔧 Como compilar e executar
 

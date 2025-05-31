@@ -84,4 +84,6 @@ java -cp bin:lib/gson-2.8.9.jar src.network.ClienteConsole
 
 ## ✍️ Autor
 
-Arthur Snow – Engenharia de Computação – UFC Quixadá
+André Alves -  Engenharia de Computação -  UFC Quixadá
+
+Arthur Roberto – Engenharia de Computação – UFC Quixadá
